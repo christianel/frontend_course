@@ -19,22 +19,22 @@ p {
 }
 
 #p1 {
-  background-color: #A52A2A;
+  background-color: blue;
 }
 #p2 {
-  background-color: #DEB887;
+  background-color: green;
 }
 #p3 {
-  background-color: #5F9EA0;
+  background-color: yellow;
 }
 #p4 {
-  background-color: #FF7F50;
+  background-color: orange;
 }
 #p5 {
-  background-color: #5F9EA0;
+  background-color: violet;
 }
 #p6 {
-  background-color: #FF7F50;
+  background-color: darkgreen;
 }
 
 /* Simple Responsive Framework. */
