@@ -15,26 +15,28 @@ p {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  color: black;
 }
 
 #p1 {
-  background-color: blue;
+  background-color: grey;
+  position: absolute;
 }
 #p2 {
-  background-color: green;
+  background-color: pink;
 }
 #p3 {
-  background-color: yellow;
+  background-color: grey;
+  position: relative;
 }
 #p4 {
-  background-color: orange;
+  background-color: red;
 }
 #p5 {
-  background-color: violet;
+  background-color: grey;
 }
 #p6 {
-  background-color: darkgreen;
+  background-color: yellow;
 }
 
 /* Simple Responsive Framework. */
