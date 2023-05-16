@@ -20,14 +20,14 @@ p {
 
 #p1 {
   background-color: grey;
-  position: absolute;
+  /*position: absolute; */
 }
 #p2 {
   background-color: pink;
 }
 #p3 {
   background-color: grey;
-  position: relative;
+  /*position: relative; */
 }
 #p4 {
   background-color: red;
